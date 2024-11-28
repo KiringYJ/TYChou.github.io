@@ -5,13 +5,11 @@ title: Tzu-Yang Chou
 
 # Tzu-Yang Chou
 
-[Home](index.md) | [Research](research.md) | [Talks](talks.md) | [Teaching](teaching.md)
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md)
 
 ---
 
-I'm a Ph.D. student at the Univeristy of Edinburgh(https://example.com), working with [Your Supervisor or Collaborator](https://example.com).  
-Previously, I was a [Your Previous Position] at the [Your Previous Institution](https://example.com), supervised by [Your Previous Supervisor](https://example.com).
-
+I'm a Ph.D. student at the Univeristy of Edinburgh(https://www.maths.ed.ac.uk/school-of-mathematics), supervised by Prof. Arend Bayer(https://www.maths.ed.ac.uk/~abayer/). 
 My academic CV can be found [here](assets/cv.pdf), and my research statement is available upon request.
 
 **e-mail**: [your-email] (e.g., name (dot) domain (at) institution (dot) tld)  
