@@ -9,7 +9,7 @@ title: Tzu-Yang Chou
 
 ---
 
-I'm a Ph.D. student at the Univeristy of Edinburgh(https://www.maths.ed.ac.uk/school-of-mathematics), supervised by Prof. Arend Bayer(https://www.maths.ed.ac.uk/~abayer/). 
+I'm a Ph.D. student at the [Univeristy of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics), supervised by [Prof. Arend Bayer](https://www.maths.ed.ac.uk/~abayer/). 
 My academic CV can be found [here](assets/cv.pdf), and my research statement is available upon request.
 
 **e-mail**: [your-email] (e.g., name (dot) domain (at) institution (dot) tld)  
