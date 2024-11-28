@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Tzu-Yang Chou
+title: Tzu-Yang Chou's homepage
 ---
-
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md)
 
