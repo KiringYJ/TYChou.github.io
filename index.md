@@ -9,7 +9,7 @@ title: Tzu-Yang Chou
 
 ---
 
-I'm a [Your Current Position] at the [Your Institution](https://example.com), working with [Your Supervisor or Collaborator](https://example.com).  
+I'm a Ph.D. student at the Univeristy of Edinburgh(https://example.com), working with [Your Supervisor or Collaborator](https://example.com).  
 Previously, I was a [Your Previous Position] at the [Your Previous Institution](https://example.com), supervised by [Your Previous Supervisor](https://example.com).
 
 My academic CV can be found [here](assets/cv.pdf), and my research statement is available upon request.
@@ -19,7 +19,7 @@ My academic CV can be found [here](assets/cv.pdf), and my research statement is 
 
 [Test PDF](assets/papers/test-file.pdf)
 
-[Test PDF](assets/papers/test-file.pdf)
+[Test PDF](assets/papers/Stability_condition_on_a_singular_surface_and_its_resolution.pdf)
 
 ---
 
