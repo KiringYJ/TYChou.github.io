@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Research
+title: Tzu-Yang Chou's homepage
 ---
 
-# [Your Name]
+# Tzu-Yang Chou
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md)
 
@@ -12,29 +12,13 @@ title: Research
 
 ## Research interests
 
-[Your research interests, e.g., Algebraic geometry, derived categories of coherent sheaves, Bridgeland stability conditions, wall-crossing, moduli spaces.]
+My research interest is in algebraic geometry, particularly, derived categories of coherent sheaves, Bridgeland stability conditions, wall-crossing, moduli spaces.]
 
-At the moment, I'm working on [Your Current Research Focus].
+At the moment, I'm working on stability conditions on singular varieties.
 
 ---
 
 
-1. **[Paper Title 1]**  
-   (with [Co-author 1], [Co-author 2], and [Co-author 3])  
-   [arXiv](https://arxiv.org/abs/example1), [pdf](assets/papers/paper1.pdf),  
-   *[Journal Name]*, Vol. [Volume Number] ([Year]), [DOI or Paper Number]  
+1. **Stability condition on a singular surface and its resolution**   
+   [pdf](assets/papers/Stability_condition_on_a_singular_surface_and_its_resolution.pdf).
 
-2. **[Paper Title 2]**  
-   (with [Co-author 1], [Co-author 2], and [Co-author 3])  
-   [arXiv](https://arxiv.org/abs/example2), [pdf](assets/papers/paper2.pdf),  
-   *[Journal Name]*, Vol. [Volume Number] ([Year]), [DOI or Paper Number]  
-
-3. **[Paper Title 3]**  
-   (with [Co-author 1] and [Co-author 2])  
-   [arXiv](https://arxiv.org/abs/example3), [pdf](assets/papers/paper3.pdf),  
-   [Year], *submitted*  
-
-4. **[Paper Title 4]**  
-   (with [Co-author 1] and [Co-author 2])  
-   [arXiv](https://arxiv.org/abs/example4), [pdf](assets/papers/paper4.pdf),  
-   [Year], *submitted*  

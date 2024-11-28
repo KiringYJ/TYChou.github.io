@@ -15,6 +15,3 @@ My academic CV can be found [here](assets/cv.pdf), and my research statement is 
 **Address**: [Your Address Placeholder]
 
 [Test PDF](assets/papers/test-file.pdf)
-
-[Test PDF](assets/papers/Stability_condition_on_a_singular_surface_and_its_resolution.pdf)
-
