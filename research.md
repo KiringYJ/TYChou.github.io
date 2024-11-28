@@ -5,11 +5,19 @@ title: Research
 
 # [Your Name]
 
-[Home](index.md) | [Research](research.md) | [Talks](talks.md) | [Teaching](teaching.md)
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md)
 
 ---
 
-*The PDF versions of the papers below are more up-to-date than the arXiv versions.*
+
+## Research interests
+
+[Your research interests, e.g., Algebraic geometry, derived categories of coherent sheaves, Bridgeland stability conditions, wall-crossing, moduli spaces.]
+
+At the moment, I'm working on [Your Current Research Focus].
+
+---
+
 
 1. **[Paper Title 1]**  
    (with [Co-author 1], [Co-author 2], and [Co-author 3])  

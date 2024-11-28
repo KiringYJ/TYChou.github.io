@@ -3,7 +3,6 @@ layout: default
 title: Tzu-Yang Chou
 ---
 
-# Tzu-Yang Chou
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md)
 
@@ -19,10 +18,3 @@ My academic CV can be found [here](assets/cv.pdf), and my research statement is 
 
 [Test PDF](assets/papers/Stability_condition_on_a_singular_surface_and_its_resolution.pdf)
 
----
-
-## Research interests
-
-[Your research interests, e.g., Algebraic geometry, derived categories of coherent sheaves, Bridgeland stability conditions, wall-crossing, moduli spaces.]
-
-At the moment, I'm working on [Your Current Research Focus].
