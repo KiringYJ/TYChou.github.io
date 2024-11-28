@@ -1,9 +1,9 @@
 ---
 layout: default
-title: [Your Name]
+title: Tzu-Yang Chou
 ---
 
-# [Your Name]
+# Tzu-Yang Chou
 
 [Home](index.md) | [Research](research.md) | [Talks](talks.md) | [Teaching](teaching.md)
 
