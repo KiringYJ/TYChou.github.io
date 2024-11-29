@@ -10,7 +10,7 @@ title: Tzu-Yang Chou's homepage
 
 ## Research interests
 
-My research interest is in algebraic geometry, particularly, derived categories of coherent sheaves, Bridgeland stability conditions, wall-crossing, moduli spaces.]
+My research interest is in algebraic geometry, in particular, derived categories of coherent sheaves, Bridgeland stability conditions, Kuznetsov components, and wall-crossing.
 
 At the moment, I'm working on stability conditions on singular varieties.
 

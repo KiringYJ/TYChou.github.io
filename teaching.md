@@ -8,6 +8,12 @@ title: Tzu-Yang Chou's homepage
 ---
 
 
-1. **Stability condition on a singular surface and its resolution**   
-   [pdf](assets/papers/Stability_condition_on_a_singular_surface_and_its_resolution.pdf).
+2022-2023 Semester 2 Proof and Problem Solving
 
+2022-2023 Semester 1 Honours Analysis-Skill
+
+2022-2023 Semester 1 Introduction to Linear Algebra
+
+2021-2022 Semester 2 [MathsBase](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/facilities/mathsbase-mathshub)
+
+2021-2022 Semester 2 Proof and Problem Solving [(MATH08059)](http://www-test.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm)

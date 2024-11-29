@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tzu-Yang Chou's homepage
+title: Tzu-Yang Chou
 ---
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md)
@@ -8,9 +8,8 @@ title: Tzu-Yang Chou's homepage
 ---
 
 I'm a Ph.D. student at the [Univeristy of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics), supervised by [Prof. Arend Bayer](https://www.maths.ed.ac.uk/~abayer/). 
-My academic CV can be found [here](assets/cv.pdf), and my research statement is available upon request.
+My academic CV can be found [here](assets/CV Tzu-Yang Chou.pdf).
 
-**e-mail**: [your-email] (e.g., name (dot) domain (at) institution (dot) tld)  
-**Address**: [Your Address Placeholder]
+**e-mail**: T (dot) Chou-1 (at) sms (dot) ed (dot) ac (dot) uk
 
-[Test PDF](assets/papers/test-file.pdf)
+
